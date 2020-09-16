@@ -35,4 +35,4 @@ Prolific Web developer with experience in PHP, Javascript, VueJs, AngularJs, Web
 
 ---
 
-![zzckano's github stats](https://github-readme-stats.vercel.app/api?username=TriDiamond&theme=dracula&show_icons=true) 
+![zzckano's github stats](https://github-readme-stats.vercel.app/api?username=zzckano&theme=dracula&show_icons=true) 
