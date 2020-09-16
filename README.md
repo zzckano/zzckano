@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ### `Who am I`
 
-欢迎来到我的GitHub, 我是<b style="color: #0ed2f7"> **马小草 (zzckano)** </b>,
+欢迎来到我的GitHub, 我是<b style="color: #0ed2f7"> **Vir_Kano (zzckano)** </b>, 经营一个叫**马小草**的博客
 
 —— 起步于.Net，一入前端深似海，最后爱上了前端。Vue、React使用者。专于Web、移动端开发。特别关注产品和UI设计。专心、专注、专研，与同学们一起终身学习。
 
