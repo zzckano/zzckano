@@ -25,8 +25,6 @@ Here are some ideas to get you started:
 
 Welcome to my Github page, I am <b style="color: #0ed2f7">**zzckano**</b>,
 
-Prolific Web developer with experience in PHP, Javascript, VueJs, AngularJs, Webpack, Laravel, Lumen. Seeking to deliver efficient and high quality programs. A creative thinker, adept in software development and striving to make a world a more unified and connected place.
-
 ---
 
 ### `My blogs`
