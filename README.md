@@ -30,7 +30,8 @@ Welcome to my Github page, I am <b style="color: #0ed2f7">**zzckano**</b>,
 ### `My blogs`
 
 - Github: https://github.com/zzckano
-- 博客：https://zzckano.github.io
+- 博客：https://zzckano.github.io  不在更新转🔍 https://www.virkano.com/web-bookmarks/
+- website：https://www.virkano.com
 
 ---
 
